@@ -11,7 +11,7 @@ Accountabilities below say who makes sure something happens. They do not say who
 ## Members and primary accountabilities
 | Name | GitHub | Primary accountability | First outreach target (a real person) |
 |---|---|---|---|
-| [name] | @[user] | Discovery: interview quality, synthesis | [name, connection to a pooled problem] |
+| Nita Javelidze | @NitaJ5 | Discovery: interview quality, synthesis | [name, connection to a pooled problem] |
 | Avtandili Gogoladze | @Avto30 | Build: repo, code, deployment | [name, connection] |
 | Gigi Peikrishvili | @GigiP909 | Delivery: deadlines, submissions, milestone tags | [name, connection] |
 
@@ -37,3 +37,4 @@ Committing this file is signing it.
 | Name | GitHub | Date |
 |Avtandili Gogoladze|Avto30|29.09.2026|
 |Gigi Peikrishvili |@GigiP909 |29.09.2026 |
+|Nita Javelidze| @NitaJ5| 29.09.2026
