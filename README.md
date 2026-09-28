@@ -1,7 +1,7 @@
 # GAN-product-capstone-2026 -- Product Capstone 2026
 
 **Course:** CS-PD-2026 Product Development for Software Engineers  
-**Semester:** Autumn 2026  
+**Semester:** Fall 2026  
 **Institution:** Kutaisi International University  
 
 ## Team
