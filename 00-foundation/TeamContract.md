@@ -13,7 +13,7 @@ Accountabilities below say who makes sure something happens. They do not say who
 |---|---|---|---|
 | [name] | @[user] | Discovery: interview quality, synthesis | [name, connection to a pooled problem] |
 | Avtandili Gogoladze | @Avto30 | Build: repo, code, deployment | [name, connection] |
-| [name] | @[user] | Delivery: deadlines, submissions, milestone tags | [name, connection] |
+| Gigi Peikrishvili | @GigiP909 | Delivery: deadlines, submissions, milestone tags | [name, connection] |
 
 
 ## How we work
@@ -36,4 +36,4 @@ Committing this file is signing it.
 
 | Name | GitHub | Date |
 |Avtandili Gogoladze|Avto30|29.09.2026|
-| | | |
+|Gigi Peikrishvili |@GigiP909 |29.09.2026 |
