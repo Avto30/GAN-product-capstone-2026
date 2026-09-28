@@ -1,4 +1,4 @@
-# GAN-product-capstone-2026 -- Product Capstone 2026
+# GAN -- Product Capstone 2026
 
 **Course:** CS-PD-2026 Product Development for Software Engineers  
 **Semester:** Fall 2026  
