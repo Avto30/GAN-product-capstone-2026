@@ -11,7 +11,7 @@ Accountabilities below say who makes sure something happens. They do not say who
 ## Members and primary accountabilities
 | Name | GitHub | Primary accountability | First outreach target (a real person) |
 |---|---|---|---|
-| Nita Javelidze | @NitaJ5 | Discovery: interview quality, synthesis | [name, connection to a pooled problem] |
+| Nita Javelidze | @NitaJ5 | Discovery: interview quality, synthesis | My friend Mariam, a KIU student whose university schedule conflicts with work opportunities |
 | Avtandili Gogoladze | @Avto30 | Build: repo, code, deployment | My mother and a few other mothers, since they are the ones that almost exclusively oversee what their children do on the internet |
 | Gigi Peikrishvili | @GigiP909 | Delivery: deadlines, submissions, milestone tags | [name, connection] |
 
