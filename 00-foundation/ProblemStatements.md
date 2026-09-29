@@ -48,3 +48,33 @@
 **Struggle I saw :** Her teaching schedule takes up a large part of her week across several workplaces, while she is also trying to maintain her own career as a performing musician and prepare for concerts. I have seen her arrange her concert travel around her students' lessons because she cannot easily cancel or postpone them.
 
 **Cost I can name :** Her teaching responsibilities leave her with limited time for her own practice and concert preparation and restrict how much time she can dedicate to performing and developing her own career. 
+
+
+# Problem 7
+**Author** : Gigi Peikrishvili
+
+**Who I watched :** My uncle, businessman who owns several vineyards.
+
+**Struggle I saw :** While needing to harvest the grapes there are several problems, weather needs to be good, so that it both doesnt rain and workers can move inside the vineyards without problem and also sugar level gets decreased after rain. factories have their own timeframe in which u must be able to harvest, which all creates a big problem(alongside the minimal price of the grapes, considering the amount of work it needs to produce one with good sugar level), for example most logical one financial, and in our case my uncle may not be able to come to our family vacation in 1 week.
+
+**Cost I can name :** responsibilities and time this takes are far more then benefits u get from having a vineyard.
+
+
+# Problem 8
+**Author** :Gigi Peikrishvili
+
+**Who I watched :** my father who works in Tbilisi and travels almost around whole city in one day.
+
+**Struggle I saw :**Traffic jams are so out of hand that he might be able to do far more less (more then 50% less) work in one day than he could have done without traffic being so major. This both makes your day more tiring and sort of gets more energy out of you and makes u less motivated to work, which of course results in less and worse done work.
+
+**Cost I can name :** Some people including my father have to move around the city while doing their work and traffic makes this less timely and exhausting, resulting in worse performance.
+
+
+# Problem 9
+**Author** :Gigi Peikrishvili
+
+**Who I watched :** Lots of my friend who owns a car and myself included.
+
+**Struggle I saw :** I can name more than 2 struggles(decibell laws about car exhaust etc.) here, but I will stick to gas prices which have gone out of hand, prices increase everyday and is almost 30% more then it was half a year ago, which makes driving a car way more expensive and for people who work and daily need to drive around in their cars( and do not have electric ones of course) it even is worse. gas prices have a big influence on lots of things, taxi prices, bus prices, and travelling using any transport in general.
+
+**Cost I can name :** Cost is people having to pay way more while travelling or simply working, which can not result in less traffic as moving around in your car in todays period is neccesarry for most people.
