@@ -65,7 +65,7 @@
 
 **Who I watched :** my father who works in Tbilisi and travels almost around whole city in one day.
 
-**Struggle I saw :**Traffic jams are so out of hand that he might be able to do far more less (more then 50% less) work in one day than he could have done without traffic being so major. This both makes your day more tiring and sort of gets more energy out of you and makes u less motivated to work, which of course results in less and worse done work.
+**Struggle I saw :** Traffic jams are so out of hand that he might be able to do far more less (more then 50% less) work in one day than he could have done without traffic being so major. This both makes your day more tiring and sort of gets more energy out of you and makes u less motivated to work, which of course results in less and worse done work.
 
 **Cost I can name :** Some people including my father have to move around the city while doing their work and traffic makes this less timely and exhausting, resulting in worse performance.
 
