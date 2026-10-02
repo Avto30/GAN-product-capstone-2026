@@ -1,27 +1,15 @@
-# GAN -- Product Capstone 2026
+# GAN
 
-**Course:** CS-PD-2026 Product Development for Software Engineers  
-**Semester:** Fall 2026  
-**Institution:** Kutaisi International University  
+**Investigating:** **Make sure to write somehing after**
+**Team:** Avtandili Gogoladze (@Avto30) · Nita Javelidze (@NitaJ5) · Gigi Peikrishvili (@GigiP909)
 
-## Team
+| Link | Status |
+|---|---|
+| Prototype | coming Week 5 |
+| Live product | coming Week 7 |
+| Analytics dashboard (PostHog) | coming Week 7 |
+| 12-month model | coming Week 12 |
+| Pitch deck | coming Week 13 |
+| One-pager | coming Week 15 |
 
-| Name | Role | GitHub |
-|------|------|--------|
-| Gigi Peikrishvili | Program Lead | @GigiP909 |
-| Nita Javelidze | Discovery Lead | @NitaJ5 |
-| Avto Gogoladze | Tech Lead | @Avto30 |
-
-## Project
-
-We are currently in the problem discovery phase (Week 2). Problem selection happens in Lab 2.
-
-## Repository Structure
-
-- `00-foundation/` -- Team contract, problem statements, ICP
-- `01-discovery/` -- Interview scripts, logs, and synthesis
-- `milestones/` -- Weekly milestone tracking documents
-
-## Status
-
-Week 2 -- Team formation complete. Problem brainstorming in progress.
+See DECISIONS.md for every product decision and the evidence behind it.
