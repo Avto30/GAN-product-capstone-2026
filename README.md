@@ -1,6 +1,6 @@
 # GAN
 
-**Investigating:** **Make sure to write somehing after**
+**Investigating:** **Make sure to write somehing after**  
 **Team:** Avtandili Gogoladze (@Avto30) · Nita Javelidze (@NitaJ5) · Gigi Peikrishvili (@GigiP909)
 
 | Link | Status |
