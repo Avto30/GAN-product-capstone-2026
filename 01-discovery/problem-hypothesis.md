@@ -6,7 +6,7 @@ Copy to `01-discovery/problem-hypothesis.md`. Commit it **before your first real
 | Teammate | What I believe the real problem is |
 |---|---|
 | Avtandili Gogoladze | There are too many students and not enough washing-machines to acomodate them. |
-
+| Nita Javelidze | Students waste effort and time because they do not know the current availability of the shared washing machines. | 
 ## Step 2: The hypothesis we test first
 > **We believe** [who: copy the one-line sketch from your ICP]
 > **struggle with** [the problem, no product words]
