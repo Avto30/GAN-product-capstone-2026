@@ -78,3 +78,21 @@
 **Struggle I saw :** I can name more than 2 struggles(decibell laws about car exhaust etc.) here, but I will stick to gas prices which have gone out of hand, prices increase everyday and is almost 30% more then it was half a year ago, which makes driving a car way more expensive and for people who work and daily need to drive around in their cars( and do not have electric ones of course) it even is worse. gas prices have a big influence on lots of things, taxi prices, bus prices, and travelling using any transport in general.
 
 **Cost I can name :** Cost is people having to pay way more while travelling or simply working, which can not result in less traffic as moving around in your car in todays period is neccesarry for most people.
+
+# Problem 10
+**Author** : Avtandili Gogoladze
+
+**Who I watched** : A KIU student living away from home who cooks for themselves and depends mainly on the small grocery stores located near the university or their apartment.
+
+**Struggle I saw** : In the evening, when deciding what to cook, the student checks the few ingredients already available in their kitchen, cannot think of a suitable meal, and then goes to nearby stores where many ingredients needed for common recipes are unavailable. They often return with the same basic products or choose fast food instead of preparing a proper meal.
+
+**Cost I can name** : The student spends extra time deciding what to eat and visiting stores, spends more money on takeaway food, wastes ingredients that remain unused, and repeatedly eats the same limited meals.
+
+
+# Problem 11
+**Author** : Avtandili Gogoladze
+**Who I watched** : KIU students living on campus who use the shared dormitory washing machines.
+
+**Struggle I saw** : Students carry their laundry downstairs to the shared laundry area without knowing whether a washing machine is available, only to find that all machines are occupied.
+
+**Cost I can name** : They waste time making unnecessary trips downstairs, carrying laundry back and forth, or waiting near the machines until one becomes available.
