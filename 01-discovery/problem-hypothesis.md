@@ -5,7 +5,7 @@ Copy to `01-discovery/problem-hypothesis.md`. Commit it **before your first real
 ## Step 1: What each of us believes (2 minutes, silently, then share)
 | Teammate | What I believe the real problem is |
 |---|---|
-| | |
+| Avtandili Gogoladze | There are too many students and not enough washing-machines to acomodate them. |
 
 ## Step 2: The hypothesis we test first
 > **We believe** [who: copy the one-line sketch from your ICP]
