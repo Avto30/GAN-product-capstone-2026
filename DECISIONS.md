@@ -1,0 +1,1 @@
+1. Wk2 · Investigate: Campus washing-machine availability. · evidence: 00-foundation/problem-pool.md Avtandili Gogoladze Problem 11, 00-foundation/four-filters-scorecard.md · runner-up: Student food / limited ingredients · owner: A.G. Problem 10.
