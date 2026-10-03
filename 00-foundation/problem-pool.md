@@ -90,7 +90,8 @@
 
 
 # Problem 11
-**Author** : Avtandili Gogoladze
+**Author** : Avtandili Gogoladze  
+
 **Who I watched** : KIU students living on campus who use the shared dormitory washing machines.
 
 **Struggle I saw** : Students carry their laundry downstairs to the shared laundry area without knowing whether a washing machine is available, only to find that all machines are occupied.
